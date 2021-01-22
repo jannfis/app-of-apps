@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  name: guestbook-one
+  name: guestbook-two
   annotations:
     argocd.argoproj.io/sync-wave: "2"
 spec:
