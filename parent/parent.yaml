@@ -10,7 +10,7 @@ spec:
     server: https://kubernetes.default.svc
   project: default
   source:
-    path: parent
+    path: children
     repoURL: https://github.com/jannfis/app-of-apps
     targetRevision: HEAD
   syncPolicy:
